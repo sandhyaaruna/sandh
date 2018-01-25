@@ -6,7 +6,7 @@ int n,i,sum=0;
 clrscr()
 printf("enter a value; ");
 scanf("%d",&n);
-for(i=1,<=n,++i);
+for(i=1;<=n;++i);
   {
     sum +=i;
     {
