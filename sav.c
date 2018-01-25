@@ -2,11 +2,16 @@
 #include<conio.h>
 void main()
 {
-int count;
+int n,i,sum=0;
 clrscr()
-for(count=0;count<=6;count++)
-{
-printf("the value is 3/n");
+printf("enter a value; ");
+scanf("%d",&n);
+for(i=1,<=n,++i);
+  {
+    sum +=i;
+    {
+  printf("sum %d",sum);
+      return 0;
 }
-getch()
+getch();
 }
