@@ -4,7 +4,7 @@ void main()
 {
 int count;
 clrscr()
-for(count=1;count<=6;count++)
+for(count=0;count<=6;count++)
 {
 printf("the name is hello/n");
 }
