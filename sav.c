@@ -4,8 +4,9 @@ void main()
 {
 int count;
 clrscr()
-for(count=1;count<=6;coumt++)
+for(count=1;count<=6;count++)
 {
-printf(the name is hello/n);
+printf("the name is hello/n");
+}
 getch()
 }
